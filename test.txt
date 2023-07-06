@@ -1,2 +1,6 @@
 hi this is the firts commit to stage
+
+this is the third commit to stag
+
 new text to comit
+
